@@ -1,4 +1,4 @@
-letters = ['A', 'B', 'C', 'D', 'π', 'ç']
+letters = ['A', 'B', 'C', 'D', 'ç']
 
 for letter in letters:
     print(letter.lower())
